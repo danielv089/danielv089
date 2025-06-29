@@ -5,7 +5,9 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 - **Languages:** Python, SQL, Bash  
 - **Data Tools:** Airflow, Spark, Pandas, Power BI  
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Git  
+- **Cloud & DevOps:** AWS, Docker, Git
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
   
 ## 📜 Selected Certifications:
