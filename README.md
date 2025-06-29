@@ -16,7 +16,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 - [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
 - [**Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url)
 
-📚[**All Courses & Certificates**](https://github.com/danielv089/danielv089.github.io/blob/main/certificates.md)
+📚[**All Courses & Certificates**](https://danielv089.github.io/certificates.html)
 
 ## 🛠️ Projects:
 Through these projects, I aim to grow my expertise and gain practical experience in solving real-world data challenges.
