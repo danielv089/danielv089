@@ -1,12 +1,6 @@
 ## About Me
 
 Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engineering background. I am currently training and building hands-on projects to strengthen my skills, with a focus on mastering key tools and concepts in data engineering and data analytics, including
-
-- **Languages:** Python, SQL, Bash  
-- **Data Tools:** Airflow, Spark, Pandas, Power BI  
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Git
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
