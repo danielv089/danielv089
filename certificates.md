@@ -1,8 +1,3 @@
----
-url: "https://danielv089.github.io"
-markdown: kramdown
----
-
 # 📜 Full Certification List
 
 - [**Data Scientist: Analytics Professional Certificate** - CodeCademy](https://www.codecademy.com/profiles/digital1150256916/certificates/7dec503730a448c8b22bb251ada403f3) – Completed: 16 March 2024 
@@ -26,7 +21,5 @@ markdown: kramdown
 - [**Docker Mastery: with Kubernetes +Swarm from a Docker Captain** - Udemy](https://www.udemy.com/certificate/UC-92c573e7-1d01-4f4b-bc2e-98d197d10ed0/) – Completed: 10 April 2025
 - [**Building and Working with Relational Databases Specializaton** - Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX) – Completed: 7 June 2025
 - [**Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url) – Completed: 23 June 2025
-
 ---
-
 🔗 [Back to homepage](https://danielv089.github.io/)
