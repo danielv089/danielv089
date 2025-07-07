@@ -29,13 +29,14 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 - [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
 - [**Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url)
 
-[![Static Badge](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)
+[![Certificates](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)
 ](CERTIFICATES.md)
 
 ## 🛠️ Projects:
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate or share insights!
 
-- [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](https://github.com/danielv089/bookstore-etl-pipeline-project)
+- [![etl_project](https://img.shields.io/badge/Python%20ETL%20Project%3A%20Scraping%2C%20Transforming%2C%20and%20Loading%20Book%20Data-blue?style=for-the-badge)
+](https://github.com/danielv089/bookstore-etl-pipeline-project)
 
   A Python-based ETL pipeline that scrapes book data, transforms and normalizes it, then loads it into a PostgreSQL database using Docker Compose.
