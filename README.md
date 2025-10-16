@@ -14,8 +14,8 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Certificates](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)
-](CERTIFICATES.md)
+[![my_certificates](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](CERTIFICATES.md)
+[![aws_skills_profile](https://img.shields.io/badge/AWS%20Skills%20Profile-orange?style=for-the-badge)](https://skillsprofile.skillbuilder.aws/user/danielvarga/certification-badges)
 
 💼 **Contact:**
 
