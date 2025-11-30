@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engineering background. I am currently training and building hands-on projects to strengthen my skills, with a focus on mastering key tools and concepts in data engineering and data analytics, including:
+Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engineering background. I am currently focused on training and building hands-on projects.My goal is to develop strong foundations in key tools and concepts mainly in data engineering, but also in data analytics. These includes the following skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -14,13 +14,16 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![my_certificates](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](CERTIFICATES.md)
+🎓 **Learning Journey**
+
+[![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
 [![aws_skills_profile](https://img.shields.io/badge/AWS%20Skills%20Profile-orange?style=for-the-badge)](https://skillsprofile.skillbuilder.aws/user/danielvarga/certification-badges)
 
-💼 **Contact:**
+💼 **Contact**
 
-[![Static Badge](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/danielv089)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
+[![github](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/danielv089)
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
+[![contact_form](https://img.shields.io/badge/%F0%9F%93%A1%20Connect%20with%20Me-green?style=for-the-badge)](https://danielv089.github.io/contact/)
 
 ## 🛠️ Projects:
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
