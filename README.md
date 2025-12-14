@@ -2,17 +2,7 @@
 
 Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engineering background. I am currently focused on training and building hands-on projects.My goal is to develop strong foundations in key tools and concepts mainly in data engineering, but also in data analytics. These includes the following skills:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/APACHE%20SPARK-white?style=for-the-badge&logo=apachespark)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws&titles=true)
 
 🎓 **Learning Journey**
 
@@ -21,9 +11,8 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 
 💼 **Contact**
 
-[![github](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/danielv089)
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
-[![contact_form](https://img.shields.io/badge/%F0%9F%93%A1%20Connect%20with%20Me-green?style=for-the-badge)](https://danielv089.github.io/contact/)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
+[![contact_form](https://go-skill-icons.vercel.app/api/icons?i=gmail)](https://danielv089.github.io/contact/)
 
 ## 🛠️ Projects:
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
