@@ -18,6 +18,10 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
 
+- [**Drift Detective**](https://github.com/danielv089/drift-detective)
+
+  Drift Detective is a Python library for tracking schema evolution and detecting structural drift in tabular datasets using versioned JSON snapshots.
+
 - [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](https://github.com/danielv089/airflow-weather-data-pipeline)
 
   ETL pipeline implemented in Apache Airflow that exctracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
