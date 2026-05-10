@@ -4,6 +4,8 @@ Hi! I’m **Dániel Varga**. Thank you for visiting my GitHub page. I'm currentl
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
 
+🎓 **Certifications**
+
 🎓 **Learning Journey**
 
 [![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
