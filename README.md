@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engineering background. I am currently focused on training and building hands-on projects.My goal is to develop strong foundations in key tools and concepts mainly in data engineering, but also in data analytics. These includes the following skills:
+Hi! I’m **Dániel Varga**. Thank you for visiting my GitHub page. I'm currently focused on training and building hands-on projects in Data Engineering and Cloud Engineering. My goal is to develop strong foundations in key tools and concepts mainly in data engineering and cloud infrastructure. These includes the following skills:
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws&titles=true)
 
@@ -24,7 +24,7 @@ Feel free to explore my work and connect if you want to collaborate.
 
 - [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](https://github.com/danielv089/airflow-weather-data-pipeline)
 
-  ETL pipeline implemented in Apache Airflow that exctracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
+  ETL pipeline implemented in Apache Airflow that extracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
   The setup deployed in a multi-container Docker environment.
   
 - [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](https://github.com/danielv089/bookstore-etl-pipeline-project)
