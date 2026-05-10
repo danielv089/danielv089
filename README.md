@@ -2,7 +2,7 @@
 
 Hi! I’m **Dániel Varga**. Thank you for visiting my GitHub page. I'm currently focused on training and building hands-on projects in Data Engineering and Cloud Engineering. My goal is to develop strong foundations in key tools and concepts mainly in data engineering and cloud infrastructure. These includes the following skills:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
 
 🎓 **Learning Journey**
 
