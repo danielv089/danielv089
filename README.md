@@ -12,6 +12,8 @@ Hi! I’m **Dániel Varga**. Thank you for visiting my GitHub page. I'm currentl
 [![DA](/badges/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/7683c481-4869-4965-bb34-2b348dba3cf0/public_url)
 
 
+
+
 [![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
 [![aws_skills_profile](https://img.shields.io/badge/AWS%20Skills%20Profile-orange?style=for-the-badge)](https://skillsprofile.skillbuilder.aws/user/danielvarga/certification-badges)
 
