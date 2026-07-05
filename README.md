@@ -6,12 +6,6 @@ My interests: Data Engineering • Cloud Engineering.
 
 Thank you for visiting my GitHub page. 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
-
-
-
-
-
 [![github](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/danielv089)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
 [![contact_form](https://go-skill-icons.vercel.app/api/icons?i=gmail)](https://danielv089.github.io/contact/)
@@ -26,6 +20,9 @@ Thank you for visiting my GitHub page.
 
 [![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
 [![aws_skills_profile](https://img.shields.io/badge/AWS%20Skills%20Profile-orange?style=for-the-badge)](https://skillsprofile.skillbuilder.aws/user/danielvarga/certification-badges)
+
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
 
 ## 🛠️ Projects:
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
