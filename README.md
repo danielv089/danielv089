@@ -10,7 +10,7 @@ Thank you for visiting my GitHub page.
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
 [![contact_form](https://go-skill-icons.vercel.app/api/icons?i=gmail)](https://danielv089.github.io/contact/)
 
-## 🎓  Certifications Earned:
+## 🎓  Certifications Earned
 
 [![SAA](/badges/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/d7422a48-c47b-4f49-b0fe-7a7b412cdf4e/public_url)
 [![CP](/badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/4f9db39f-a139-46c0-bd52-0784b6058115/public_url)
@@ -25,7 +25,7 @@ Thank you for visiting my GitHub page.
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
 
-## 🛠️  Projects:
+## 🛠️  Featured Projects
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
 
